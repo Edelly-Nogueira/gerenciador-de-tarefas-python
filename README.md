@@ -49,7 +49,7 @@ Durante o desenvolvimento deste projeto foram utilizados os seguintes conceitos:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/gerenciador-de-tarefas-python.git
+git clone https://github.com/Edelly-Nogueira/gerenciador-de-tarefas-python.git
 ```
 
 2. Entre na pasta do projeto:
